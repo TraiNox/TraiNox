@@ -1,0 +1,29 @@
+feature_1,feature_2,abs_corr
+Average playtime two weeks,Median playtime two weeks,0.9719929107001958
+Average playtime forever,Median playtime forever,0.8842864061055431
+Positive,Negative,0.7839491132614846
+Positive,Average playtime forever,0.20308607638561982
+Negative,Average playtime forever,0.19416664069592804
+Average playtime forever,Average playtime two weeks,0.15842554778415652
+Average playtime forever,Median playtime two weeks,0.14259271054390982
+Positive,Average playtime two weeks,0.09986165383511145
+Negative,Average playtime two weeks,0.09490056786186582
+Price,Average playtime two weeks,0.07982517634404661
+Price,Median playtime two weeks,0.07826546374025957
+Average playtime two weeks,Median playtime forever,0.07432124291023676
+Price,Average playtime forever,0.07352062645591972
+Median playtime forever,Median playtime two weeks,0.07048384496527184
+Positive,Median playtime two weeks,0.05978211103458693
+Negative,Median playtime two weeks,0.058174719589455755
+Price,Median playtime forever,0.04822202774351104
+Negative,Median playtime forever,0.035626448711840494
+Price,Positive,0.03474920985157566
+Positive,Median playtime forever,0.034126587097712734
+Price,Negative,0.029712587871983834
+Positive,Achievements,0.012571248845741808
+Achievements,Average playtime forever,0.011840263151193553
+Negative,Achievements,0.008994933063861526
+Achievements,Average playtime two weeks,0.00870495039181639
+Achievements,Median playtime two weeks,0.007180985013996347
+Achievements,Median playtime forever,0.004884770465375333
+Price,Achievements,0.0021183027310067945
