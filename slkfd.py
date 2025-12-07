@@ -10,7 +10,7 @@ df_popularity = df[['popularity_score_old']].copy()
 df_popularity.to_parquet("popularity_score_old.parquet", index=False)
 
 # Kontrol
-print("✅ Yeni dosya oluşturuldu: popularity_score_old.parquet")
+print(" Yeni dosya oluşturuldu: popularity_score_old.parquet")
 print(f"Shape: {df_popularity.shape}")
 print(f"\nİlk 5 satır:")
 print(df_popularity.head())
